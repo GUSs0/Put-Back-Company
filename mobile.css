@@ -1,0 +1,30 @@
+body{
+    height: 768px;
+    margin-bottom: auto;
+}
+
+.lista{
+    text-align:center;
+    margin: auto;\
+    padding: 15px;
+}
+
+
+.inko{
+    height: 700px;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.imagens{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    height: 700px;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+    margin-bottom: 15px;
+}
